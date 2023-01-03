@@ -1,0 +1,4 @@
+[submodule "much_dynamic_theme_colour"]
+	path = much_dynamic_theme_colour
+	url = git@github.com:much-GmbH/much_dynamic_theme_colour.git
+	branch = 15.0
