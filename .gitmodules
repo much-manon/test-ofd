@@ -2,3 +2,8 @@
 	path = much_dynamic_theme_colour
 	url = git@github.com:much-GmbH/much_dynamic_theme_colour.git
 	branch = 15.0
+
+[submodule "purchase_order_vendor_compliance_check"]
+	path = purchase_order_vendor_compliance_check
+	url = git@github.com:much-GmbH/purchase_order_vendor_compliance_check.git
+	branch = 15.0
