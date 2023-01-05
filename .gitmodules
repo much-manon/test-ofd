@@ -7,3 +7,8 @@
 	path = installed-base
 	url = git@github.com:much-GmbH/installed-base.git
 	branch = feat-installed-base-medtech
+
+[submodule "medtech_feedback_management"]
+	path = medtech_feedback_management
+	url = git@github.com:much-GmbH/medtech_feedback_management.git
+	branch = main
