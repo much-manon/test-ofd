@@ -2,3 +2,8 @@
 	path = much_dynamic_theme_colour
 	url = git@github.com:much-GmbH/much_dynamic_theme_colour.git
 	branch = 15.0
+
+[submodule "installed-base"]
+	path = installed-base
+	url = git@github.com:much-GmbH/installed-base.git
+	branch = feat-installed-base-medtech
