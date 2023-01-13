@@ -12,3 +12,8 @@
 	path = medtech_feedback_management
 	url = git@github.com:much-GmbH/medtech_feedback_management.git
 	branch = main
+
+[submodule "much-qweb-updater"]
+	path = much-qweb-updater
+	url = git@github.com:much-GmbH/much-qweb-updater.git
+	branch = dev-15
